@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -197,9 +197,9 @@ sass:
   style: compressed
 
 compress_html:
-  clippings: all
-  comments: all
-  endings: all
+  clippings: 全部
+  comments: 全部
+  endings: 全部
   profile: false
   blanklines: false
   ignore:
