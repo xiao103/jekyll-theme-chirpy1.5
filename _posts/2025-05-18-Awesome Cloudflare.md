@@ -1,8 +1,8 @@
 ---
 title: Awesome Cloudflare
 date: 2025-01-1 12:00:00 +0800
-categories: [互联网, Docker]
-tags: [Docker,Github,Cloudflare]
+categories: [教程及资源, Cloudflare]
+tags: [Github,Cloudflare]
 ---
 
 <div align="center">
