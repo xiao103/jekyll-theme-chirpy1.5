@@ -8,18 +8,9 @@ tags: [Github,Cloudflare]
 <div align="center">
 
 <h1 align="center">Awesome Cloudflare <img src="https://img.shields.io/github/stars/zhuima/awesome-cloudflare?label=Stars" alt="stars"></h1>
-
 本仓库只收录基于Cloudflare的开源工具，为独立开发者早期摸索期提供一个省心省时的工具集，持续整理中……
-
-[中文](./README.md) / [English](./README-EN.md) / [Español](./README-ES.md) / [Deutsch](./README-DE.md)
-
-![awesome-cloudflare](./docs/awesome-cloudflare.svg)
-
 </div>
 
-# [<img src="https://img.techrk1688.eu.org/file/e44951f61086ae4dc9591.png" width="250" align="right" alt="Cloudflare">](https://www.cloudflare.com)
-
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&multiline=true&random=false&height=80&lines=%E7%B2%BE%E9%80%89%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E4%B9%8B%E5%85%89+Cloudflare+%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE;%E3%80%81%E6%8C%87%E5%8D%97%E3%80%81%E5%8D%9A%E5%AE%A2%E5%92%8C%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8%E3%80%82)](https://git.io/typing-svg)
 
 被称为赛博菩萨的 Cloudflare 提供内容交付网络 （CDN） 服务、DDoS 缓解、互联网安全和分布式域名服务器 （DNS） 服务，位于访问者和 Cloudflare 用户的托管提供商之间，充当网站的反向代理。
 
@@ -257,14 +248,3 @@ tags: [Github,Cloudflare]
 | [cloudflare-tunnel](https://dmesg.app/cloudflare) |  一系列关于如何使用 Cloudflare Zero Trust 创建大内网以及解决被墙服务器问题的技术博客。 |  | 更新中 |
 | [cloudflare-worker-gmail-resend-enterprise-email](https://cleanclip.cc/zh/developer/cloudflare-worker-gmail-resend-enterprise-email) |  Cloudflare + Gmail + Resend 十分钟轻松拥有免费的企业邮箱。 |  | 更新中 |
 
-
-
-## Contributors
-
-<a href="https://github.com/zhuima/awesome-cloudflare/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=zhuima/awesome-cloudflare" />
-</a>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.com/#zhuima/awesome-cloudflare&Timeline)
