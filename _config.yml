@@ -16,20 +16,20 @@ timezone:
 
 title: XIAO # the main title
 
-tagline: Demo Blog # it will display as the subtitle
+tagline: 私人的学习记录 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://b2.x1ao.shop"
 
 github:
   username: xiao103 # change to your GitHub username
 
 twitter:
-  username: shbedu # change to your Twitter username
+  username: xiao_doc # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://b2.x1ao.shop"
 
 # ------------ The following options are not recommended to be modified ------------------
 
